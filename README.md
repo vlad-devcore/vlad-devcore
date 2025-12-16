@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Reemplaza 'URL-DE-TU-BANNER' con el link de tu banner cuando lo subas -->
-<img src="URL-DE-TU-BANNER" alt="Banner" width="100%"/>
+<img src="https://github.com/vlad-devcore/vlad-devcore/blob/main/assets/Banner.png" alt="Banner" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Frontend+Developer+%26+UX+Enthusiast;Process+Automation+Specialist;Problem+Solver+Through+Code" alt="Typing SVG" />
 
@@ -53,7 +53,7 @@ A comprehensive solution for the Business Management Department that digitalized
 - Eliminated paper-based processes entirely
 - Improved efficiency for students and staff
 
-**Tech Stack:** Laravel, React, MariaDB
+**Tech Stack:** Laravel, React, MariaDB, PHP, MySQL, Tailwind
 
 </td>
 </tr>
@@ -163,7 +163,6 @@ A comprehensive solution for the Business Management Department that digitalized
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vlad-devcore&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vlad-devcore&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -171,9 +170,7 @@ A comprehensive solution for the Business Management Department that digitalized
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vlad-devcore&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vlad-devcore&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
+
 
 ---
 
