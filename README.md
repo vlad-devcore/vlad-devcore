@@ -1,133 +1,243 @@
-# Hi there! 👋 I'm Marcos Vladimir Poot Cohuo
+<div align="center">
 
 <!-- Reemplaza 'URL-DE-TU-BANNER' con el link de tu banner cuando lo subas -->
-<div align="center">
-  <img src="URL-DE-TU-BANNER" alt="Banner" width="100%"/>
-</div>
+<img src="URL-DE-TU-BANNER" alt="Banner" width="100%"/>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vladimir-poot-cohuo-1a215a25b)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlad-devcore)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Frontend+Developer+%26+UX+Enthusiast;Process+Automation+Specialist;Problem+Solver+Through+Code" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vladimir-poot-cohuo-1a215a25b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://github.com/vlad-devcore)
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm a **Software Engineering student** about to graduate from **Universidad Politécnica de Quintana Roo**, passionate about creating elegant digital solutions and automating complex processes. My strength lies in **frontend development** with a strong focus on **UX design**, though I also enjoy diving into backend and database development.
+## About Me
 
-### 💡 What Drives Me
+**Software Engineering student** about to graduate from **Universidad Politécnica de Quintana Roo**, specializing in creating intuitive digital experiences with a strong focus on UX design and process automation. I transform complex workflows into elegant, automated solutions that make a real impact.
 
-I'm passionate about **solving real-world problems through code** and **automating processes** that make people's lives easier. I love the challenge of turning complex workflows into intuitive, automated solutions.
+### What Drives Me
+
+I'm passionate about solving real-world problems through code. Whether it's automating tedious processes or crafting beautiful user interfaces, I believe technology should make life easier and more efficient.
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🏢 Marriott Affiliation Platform
-**Automated Guest Affiliation System**
-- Developed an automated platform that streamlined guest affiliation for Marriott hotels
-- Reduced manual effort significantly by automating the entire registration process
-- Created an intuitive interface that required minimal user intervention
+<table>
+<tr>
+<td width="50%">
 
-### 🎓 UPQROO Platform - Internship & Social Service Management
-**Business Management Department Automation**
-- Built a comprehensive platform to automate document submission processes
-- Streamlined the workflow for internships, professional residencies, and social service
-- Eliminated manual paperwork and improved efficiency for the Business Management department
+### Marriott Affiliation Platform
+**Automated Guest Registration System**
+
+Built during my first professional experience, this platform revolutionized the guest affiliation process for Marriott hotels.
+
+**Impact:**
+- Automated 95% of the registration workflow
+- Eliminated manual data entry errors
+- Reduced processing time from minutes to seconds
+
+**Tech Stack:** React, PHP, MySQL
+
+</td>
+<td width="50%">
+
+### UPQROO Platform
+**Internship & Social Service Management**
+
+A comprehensive solution for the Business Management Department that digitalized and automated document submission processes.
+
+**Impact:**
+- Streamlined workflows for internships and social service
+- Eliminated paper-based processes entirely
+- Improved efficiency for students and staff
+
+**Tech Stack:** Laravel, React, MariaDB
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
+
+<div align="center">
 
 ### Frontend Development
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-</div>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+</tr>
+</table>
 
 ### Backend Development
-<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+<br>Laravel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+</tr>
+</table>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</div>
-
-### Database & Tools
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-</div>
-
----
-
-## 🎨 Beyond Code
-
-When I'm not coding, you'll find me:
-
-- 📸 **Photography enthusiast** - Capturing moments and perspectives
-- 🎧 **DJ** - Spinning tracks at events and celebrations
-- ⚽ **Football player** - Enjoying the beautiful game
-- 🌐 **Building side projects** - Creating web applications for fun and continuous learning
-
-### 🎯 Current Focus
-
-I'm currently in my final stage of university and eager to expand my knowledge beyond web development. While time is limited right now, I'm planning to explore new areas of software development including **mobile applications**, **desktop software**, and **emerging technologies**.
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to interesting conversations, collaboration opportunities, or just talking about technology and automation!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vladimir-poot-cohuo-1a215a25b)
+### Database & DevOps
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>MariaDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+## GitHub Analytics
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vlad-devcore&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vlad-devcore&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  
-### ⚡ "Automating today for a better tomorrow"
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlad-devcore&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vlad-devcore&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vlad-devcore&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+---
+
+## Current Focus & Interests
+
+```javascript
+const marcos = {
+    currentStatus: "Final stage of Software Engineering degree",
+    focusAreas: ["Frontend Development", "UX Design", "Process Automation"],
+    learning: ["Advanced React Patterns", "System Architecture", "Mobile Development"],
+    interests: ["Web Development", "Database Optimization", "Problem Solving"],
+    futureGoals: ["Explore non-web development", "Master new tech stacks", "Build impactful solutions"]
+};
+```
+
+---
+
+## Beyond Code
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI3NjZ3YzRhMWVpZ3p3eDRmYnN2Ym5rZGF5NXkycTBjZnZrZzJ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlvseq9yvZhba/giphy.gif" width="100" /><br>
+<b>Photography</b><br>
+Capturing moments
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM3YzM3ZzJ6YjJ6aGVpbnZ5OHF5YzBxbGJ5M2Z4NXdzcWQwZ3RxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWH5iJhUtTAHcSaZTI/giphy.gif" width="100" /><br>
+<b>DJing</b><br>
+Spinning at events
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl5dzJ3aGl2Y2V4M2hxN3BhYmJ6NGdyZWlrOTlhYTBvNjYzYmNhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ae7SI3LoPYj8Q/giphy.gif" width="100" /><br>
+<b>Football</b><br>
+Playing the game
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVycjh1ejFydnBtcHBraWZiOXNxazhlN3kyOTRsMXc2YjV5NDFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
+<b>Side Projects</b><br>
+Learning & building
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vladimir-poot-cohuo-1a215a25b)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vlad-devcore&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
 </div>
